@@ -23,6 +23,26 @@ description: "Capstone report: Refresh / Content Opportunity Scoring — attract
 
 ---
 
+<!-- Decorative summary and visual callouts (original content preserved verbatim below) -->
+
+<p align="center">
+  <span style="font-size:1.05em;">✨ <strong>At a glance</strong> — Model-driven refresh prioritization for editorial teams</span>
+</p>
+
+> 📌 <strong>Quick summary</strong>
+>
+> - Purpose: Produce a ranked, continuous risk score per page to prioritize content refreshes.
+> - Key lift: Random Forest achieves ~3× Precision@20 vs. the rule baseline (0.72 vs. 0.24).
+> - Evaluation: 5-Fold GroupKFold by client_id to avoid domain leakage.
+
+<p align="center">
+  <img alt="badges" src="https://img.shields.io/badge/Precision%4020-0.72-brightgreen?style=for-the-badge&logo=graph" />
+  <img alt="badges" src="https://img.shields.io/badge/Baseline-0.24-yellow?style=for-the-badge&logo=alert" />
+  <img alt="badges" src="https://img.shields.io/badge/Seed-42-blue?style=for-the-badge&logo=seed" />
+</p>
+
+---
+
 <!-- Original content preserved verbatim below -->
 
 # Capstone Report — <Refresh / Content Opportunity Scoring>
