@@ -1,3 +1,30 @@
+---
+title: "Capstone Report — <Refresh / Content Opportunity Scoring>"
+description: "Capstone report: Refresh / Content Opportunity Scoring — attractive layout with banner and quick nav. Original content preserved verbatim below."
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Musamehar/ML_Intership/main/outputs/charts/top_feature_importance.svg" alt="Feature importance" width="560" style="border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.12)"/>
+</p>
+
+<p align="center">
+  <strong>Author:</strong> Muhammad Musa &nbsp; • &nbsp; <strong>Lane:</strong> Refresh / Content Opportunity Scoring &nbsp; • &nbsp; <strong>Date:</strong> 2026-08-10
+</p>
+
+## Quick links
+- <a href="#1-problem-framing">1. Problem framing</a>
+- <a href="#2-data-safety">2. Data safety</a>
+- <a href="#3-baseline">3. Baseline</a>
+- <a href="#4-model--analysis">4. Model / analysis</a>
+- <a href="#5-evaluation">5. Evaluation</a>
+- <a href="#6-interpretation">6. Interpretation</a>
+- <a href="#7-recommendation">7. Recommendation</a>
+- <a href="#8-reproducibility">8. Reproducibility</a>
+
+---
+
+<!-- Original content preserved verbatim below -->
+
 # Capstone Report — <Refresh / Content Opportunity Scoring>
 
 - **Author:Muhammad Musa**
@@ -161,6 +188,3 @@ Run the pipeline: Execute the capstone notebooks in order (from w01 to w06) loca
 
 Random Seeds:
 To ensure identical data splits and model convergence, random_state=42 is enforced globally across all train_test_split, GroupKFold, and RandomForestClassifier instances.
-
-
-
